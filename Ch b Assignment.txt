@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment for Chapter B - Demonstrationg Attributes </title>
+</head>
+<body>
+
+    <h1 id="main-title" class="title-class">Examples from Student (E. Dutton): HTML Attributes</h1>
+
+    <div class="container" id="main-container">
+        <p class="text-class"> The div class created a container and this section is inside the div class container.</p>
+    </div>
+
+    <input type="text" id="user-input" class="input-class" placeholder="Enter text here" value="Default text">
+
+    <script src="app.js" type="text/javascript"></script>
+
+</body>
+</html>
+
